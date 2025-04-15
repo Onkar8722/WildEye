@@ -1,0 +1,9 @@
+Flask
+opencv-python-headless
+tensorflow
+numpy
+sounddevice
+librosa
+requests
+scikit-learn
+Pillow
